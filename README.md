@@ -23,4 +23,6 @@
 | [塑料活页夹](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5f892e8dvdSmXy&id=733704220041&_u=e2d3uchq103e) | 8.33  | 1    |
 | [得力圆孔](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5f892e8dvdSmXy&id=603453691649&_u=e2d3uchqb39c) | 17.64 | 1    |
 | [A7 O型夹](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.2be62e8d0dkbpw&id=600825550302&_u=e2d3uchqabf2) | 1.6   | 5    |
+| [可得优6孔打孔器](https://item.taobao.com/item.htm?id=624838010466&_u=i2d3uchqfc8f) | 40    | 1    |
+| [三菱针管笔](https://detail.tmall.com/item.htm?ali_refid=a3_430582_1006:1152303703:N:vbXe5zR2FHINEpZxMUT1fw==:eb1f24f9bc0a87b763276d4296d414f4&ali_trackid=162_eb1f24f9bc0a87b763276d4296d414f4&id=575432220740&spm=a21n57.1.item.1&skuId=3781174561814) | 7     | 20   |
 
