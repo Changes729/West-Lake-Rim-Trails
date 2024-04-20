@@ -23,6 +23,15 @@
 
 
 
+## 文献资料
+
+- [增订西湖游览指南（十四版）](https://upload.wikimedia.org/wikipedia/commons/5/5d/SSID-13749018_%E5%A2%9E%E8%A8%82%E8%A5%BF%E6%B9%96%E9%81%8A%E8%A6%BD%E6%8C%87%E5%8D%97_%E9%99%84%E8%A7%80%E6%BD%AE%E6%8C%87%E5%8D%97.pdf)
+- [论杭州城湖一体城市形态的形成——从近代初期湖滨地区建设新市场计画相关的历史研究展开, 傅舒兰, [日]西村幸夫](http://ud.t.u-tokyo.ac.jp/research/publications/_docs/img-715123012.pdf)
+- [《浙江省城全图》的前世与今生](http://www.sssch.net/Admin/ckfinder/userfiles/files/shuyuan/xingzou/_%E6%B5%99%E6%B1%9F%E7%9C%81%E5%9F%8E%E5%85%A8%E5%9B%BE_%E7%9A%84%E5%89%8D%E4%B8%96%E4%B8%8E%E4%BB%8A%E7%94%9F.pdf)
+- [杭州城池暨西湖历史图说](https://my1.hzlib.net/opac/search?q=%E6%9D%AD%E5%B7%9E%E5%9F%8E%E6%B1%A0%E6%9A%A8%E8%A5%BF%E6%B9%96%E5%8E%86%E5%8F%B2%E5%9B%BE%E8%AF%B4&searchType=standard&isFacet=true&view=standard&rows=10&sortWay=score&sortOrder=desc&searchWay0=marc&logical0=AND&f_curlocal=00000028)
+
+
+
 ## Images
 
 <div style="display=fixed">
